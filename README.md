@@ -12,7 +12,7 @@ The bot collects the names of all of the below, puts them in files and then upda
 - Hosts & raids
 
 ## How to download
-Right click on [this link](https://github.com/CaveMobster/firebot-setups/blob/master/Credits/credits.firebotsetup?raw=true) and choose "Save Link As...".
+Find the download [here](https://github.com/CaveMobster/firebot-setup-end-credits/releases).
 
 ## Setup walkthrough
 This setup is a bit more complex than others in this repository, because it's includes modifications in OBS.
