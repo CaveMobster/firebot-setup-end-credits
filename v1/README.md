@@ -3,13 +3,13 @@
 This setup adds end credits to show at the end of the stream.
 
 ## What it does
-The bot collects the names of all of the below, puts them in files and then updates the html file you created, which you can include in a browser source in OBS. When a certain event hasn't happened, for example if you didn't get any tips, it will exclude that block from the credits. The files get cleared every time Firebot starts, but you can also use a command or use your stream deck.
+The bot collects the names of all of the below, puts them in files and then updates credits.html, which you can include in a browser source in OBS. When a certain event hasn't happened, for example if you didn't get any tips, it will exclude that block from the credits. The files get cleared every time Firebot starts, but you can also use a command or use your stream deck.
 - Mods
 - Follows
 - Subs & resubs
 - Gift subs (only the names of the gifters will be displayed)
 - Bits
-- Hosts & raids
+- Raids
 
 ## How to download
 Find the download [here](https://github.com/CaveMobster/firebot-setup-end-credits/releases).
