@@ -54,32 +54,32 @@ Since this setup also requires some setting up in OBS, I wrote a detailed instru
 - Roll Credits
 - Clear Credits
 
-# Import Questions
+## Import Questions
 
-## Create a new folder with an empty credits.html file and enter the path here. Example: C:/Stream/Credits
+### Create a new folder with an empty credits.html file and enter the path here. Example: C:/Stream/Credits
 
 Default: `blank`
 
-## Title for the mods block
+### Title for the mods block
 
 Default: Mods
 
-## Title for the subs & resubs block
+### Title for the subs & resubs block
 
 Default: Subs & Resubs
 
-## Title for the gift subs block
+### Title for the gift subs block
 
 Default: Gift Subs
 
-## Title for the bits block
+### Title for the bits block
 
 Default: Bits
 
-## Title for the raids block
+### Title for the raids block
 
 Default: Raids
 
-## Title for the follows block
+### Title for the follows block
 
 Default: Follows
